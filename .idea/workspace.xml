@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd0710d9-ae72-42c6-8d00-090bb5993d5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rHOaOwyIr4F3QtZY9hKvukD1hu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="U:/Bone-Fracture-Detection---MURA-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.GUI">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intelligent_bone_fracture_detection_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_loader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intelligent_bone_fracture_detection_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="densenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intelligent_bone_fracture_detection_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/densenet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="netconfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intelligent_bone_fracture_detection_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/netconfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="intelligent_bone_fracture_detection_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GUI" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.netconfig" />
+        <item itemvalue="Python.densenet" />
+        <item itemvalue="Python.data_loader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd0710d9-ae72-42c6-8d00-090bb5993d5b" name="Default Changelist" comment="" />
+      <created>1618629611935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618629611935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621683942648">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="515" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1621683942648" />
+    <state x="274" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621948499494">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="274" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1621948499494" />
+    <state x="579" y="185" key="FileChooserDialogImpl" timestamp="1624659112852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1624659112852" />
+    <state width="1579" height="182" key="GridCell.Tab.0.bottom" timestamp="1625406243686">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="182" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1625406243686" />
+    <state width="1579" height="182" key="GridCell.Tab.0.center" timestamp="1625406243686">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="182" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1625406243686" />
+    <state width="1579" height="182" key="GridCell.Tab.0.left" timestamp="1625406243685">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="182" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1625406243685" />
+    <state width="1579" height="182" key="GridCell.Tab.0.right" timestamp="1625406243686">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="182" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1625406243686" />
+    <state width="1579" height="330" key="GridCell.Tab.1.bottom" timestamp="1623684475000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="330" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1623684475000" />
+    <state width="1579" height="330" key="GridCell.Tab.1.center" timestamp="1623684475000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="330" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1623684475000" />
+    <state width="1579" height="330" key="GridCell.Tab.1.left" timestamp="1623684474999">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="330" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1623684474999" />
+    <state width="1579" height="330" key="GridCell.Tab.1.right" timestamp="1623684475000">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="330" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1623684475000" />
+    <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1621944351582">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1621944351582" />
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1625320173191">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1625320173191" />
+    <state x="541" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1625347726543">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="541" y="73" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1625347726543" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1621803691748">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1621803691748" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="training_set[0]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
