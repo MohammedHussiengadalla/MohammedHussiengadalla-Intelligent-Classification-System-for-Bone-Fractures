@@ -25,3 +25,7 @@ You can train the model by running train__humerus_fracture_detection_keras_model
 Few visualizations are available in layer outputs directory.
 
 The notebook can be used to implement other available pre-trained models from Tensorflow Keras for Transfer Learning.
+
+
+https://user-images.githubusercontent.com/51422761/136666513-6de20126-a690-4b62-b056-4209686aeb44.mp4
+
